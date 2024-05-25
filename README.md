@@ -67,4 +67,4 @@
 Критериумот Multiple Condition е задоволен со овие тест примери.
 
 ## Објаснување на напишаните unit tests
-Објасненијата на unit tests се наоѓаат во самите делови за Every Branch и Multiple Choice
+Објаснувањата на unit tests се наоѓаат во самите делови за Every Branch и Multiple Choice
